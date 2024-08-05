@@ -1,15 +1,29 @@
 # transliteration-uk-js
 
+[![GitHub License](https://img.shields.io/github/license/prutya/transliteration-uk-js)](https://github.com/prutya/transliteration-uk-js/blob/main/LICENSE)
+[![NPM Version](https://img.shields.io/npm/v/transliteration-uk-js)](https://www.npmjs.com/package/transliteration-uk-js)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/prutya/transliteration-uk-js/push-main.yml)](https://github.com/prutya/transliteration-uk-js/actions/workflows/push-main.yml)
+
 ## Install
+
+### npm
 ```sh
-# npm
 npm install transliteration-uk-js
+```
 
-# pnpm
+### pnpm
+```sh
 pnpm add transliteration-uk-js
+```
 
-# yarn
+### Yarn
+```sh
 yarn add transliteration-uk-js
+```
+
+### Bun
+```sh
+bun add transliteration-uk-js
 ```
 
 ## Usage
